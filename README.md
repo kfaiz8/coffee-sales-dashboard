@@ -19,9 +19,7 @@ Coffee-Sales-Dashboard/
 │── MY SQL Queries.docx.pdf # SQL report with queries & analysis
 │── Coffee Shop Sales(Transactions).csv # Dataset used for analysis
 │── Dashboard-SS.png # Dashboard screenshot (preview)
-│── README.md # Documentation
-
-
+│── README.md # Documentation## 📂 Repository Structure
 
 ---
 
