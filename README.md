@@ -14,13 +14,14 @@ The dashboard highlights:
 ---
 
 ## 📂 Repository Structure
+'''
 Coffee-Sales-Dashboard/
 │── CoffeeSalesDashBoard (1).pbix # Power BI interactive dashboard
 │── MY SQL Queries.docx.pdf # SQL report with queries & analysis
 │── Coffee Shop Sales(Transactions).csv # Dataset used for analysis
 │── Dashboard-SS.png # Dashboard screenshot (preview)
-│── README.md # Documentation## 📂 Repository Structure
-
+│── README.md # Documentation
+'''
 ---
 
 ## 📷 Dashboard Preview
