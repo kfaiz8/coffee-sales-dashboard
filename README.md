@@ -21,9 +21,7 @@ Coffee-Sales-Dashboard/
 │── Dashboard-SS.png # Dashboard screenshot (preview)
 │── README.md # Documentation
 
-yaml
-Copy
-Edit
+
 
 ---
 
